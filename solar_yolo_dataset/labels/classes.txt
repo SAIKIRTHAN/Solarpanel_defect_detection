@@ -1,0 +1,6 @@
+Bird-drop
+clean
+Dusty
+Electrical-damage
+Physical-Damage
+Snow-Covered

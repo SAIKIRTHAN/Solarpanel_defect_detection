@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Dataset folder
+solar_panel_dataset/
+
+# Training script
+create_yolo_folders.py
+
+# YOLO data config
+solar_data.yaml
+
+# Pretrained model weights
+yolo8n.pt
+
+# YOLO training results
+runs/
